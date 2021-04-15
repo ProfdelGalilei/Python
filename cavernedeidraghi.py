@@ -22,7 +22,7 @@ def scegliCav():
         print ('In quale caverna vuoi entrare? 1 o2?')
         caverna = input()
         
-        return caverna
+     
     
 def verifica(CavScelta):
     print ('Ti avvicini con cautela alla caverna...')
